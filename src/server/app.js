@@ -64,7 +64,7 @@ function sendMessage(toNumber) {
     }
 
     let sms = {
-        body: 'Are you ready for your quest? ' + config.domain + '/game/' + toNumber,
+        body: 'So until we get out of beta we are limiting visitors, if you want in you will have to finish the game.GOOD LUCK!!! ' + config.domain + '/game/' + toNumber,
         to: toNumber
     };
 
